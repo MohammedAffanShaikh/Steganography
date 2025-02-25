@@ -64,7 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📩 Contact
-For any inquiries, reach out to me at: [your.email@example.com](mailto:your.email@example.com)
+For any inquiries, reach out to me at: [affancodes@gmail.com](mailto:affancodes@gmail.com)
 
 ---
 _⭐ If you find this project helpful, please give it a star on GitHub! ⭐_
